@@ -85,7 +85,7 @@ img {
   color: #4d5ae5;
   margin-right: 76px;
 }
-.studio {
+.menu-link.studio {
   position: relative;
   color: #404bbf;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1)
@@ -172,7 +172,9 @@ img {
   background-position: center; 
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.icons {
+
+
+.icons-list-benefits {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -182,10 +184,6 @@ img {
   border-radius: 4px;
   border: 1px solid #8E8F99;
   margin-bottom: 8px;
-}
-
-.icons-list {
-  display: flex;
 }
 
 .hero-title {
