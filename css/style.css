@@ -453,11 +453,9 @@ img {
 .icons-footer {
   display: flex;
   gap: 16px;
-  flex-direction: row;
-
 }
 
-.icons-list-footer {
+.icons-list {
   width: 40px;
   height: 40px;
 }
@@ -506,11 +504,11 @@ img {
 }
 
 
-.icons-footer .icons-network:hover {
+.icons-footer .icons-network-footer:hover {
   background-color: #31d0aa;
 
 }
-.icons-footer .icons-network:focus {
+.icons-footer .icons-network-footer:focus {
   background-color: #31d0aa;
 
 }
